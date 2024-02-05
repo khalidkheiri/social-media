@@ -1,0 +1,4 @@
+beautifulsoup4==4.12.3
+deep_translator==1.11.4
+Requests==2.31.0
+streamlit==1.29.0
